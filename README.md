@@ -52,8 +52,7 @@ Node.js (v18+ recommended)
 npm or yarn package manager
 
 Installation:
-# Clone the repository
-git clone https://github.com/Santhoshadimulapu/Ethical-Ai-Trianing-simulation-final.git
+ 
 
 # Navigate into project folder
 cd Ethical-Ai-Trianing-simulation-final
